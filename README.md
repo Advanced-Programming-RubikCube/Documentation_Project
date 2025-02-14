@@ -10,6 +10,9 @@ This repository contains the documentation for the **Rubik's Cube Timer Applicat
 2. **Report_Advanced_Programming.pdf**: 
    - This report documents the development process of the Rubik's Cube Timer application. It includes user stories, functional and non-functional requirements, UML diagrams, conceptual design, system architecture, backend service design, and an analysis of SOLID principles implementation.
 
+3. **SLIDES.pdf**:  
+   - This file contains the presentation slides for the project's socialization. It provides a high-level overview of the application, its features, design considerations, and key takeaways.
+
 ## References
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
